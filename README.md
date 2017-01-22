@@ -1,4 +1,5 @@
-## Telegram messenger for Android
+## FastFrag Messenger messenger for Android Telegram API SDK Core
+
 
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 This repo contains the official source code for [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
@@ -16,9 +17,9 @@ There are several things we require from **all developers** for the moment.
 
 ### API, Protocol documentation
 
-Telegram API manuals: https://core.telegram.org/api
+Telegram API manuals: https://goo.gl/6MeqST
 
-MTproto protocol manuals: https://core.telegram.org/mtproto
+MTproto protocol manuals: https://goo.gl/QtN7Ws
 
 ### Usage
 
@@ -29,4 +30,7 @@ Import the root folder into your IDE (tested on Android Studio), then run projec
 
 ### Localization
 
-We moved all translations to https://www.transifex.com/projects/p/telegram/. Please use it.
+We moved all translations to https://goo.gl/gdfQqb. Please use it.
+
+Community: http://fastfrag.ru/
+Author: https://vk.com/id208636972
